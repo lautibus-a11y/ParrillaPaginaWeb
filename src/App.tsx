@@ -93,7 +93,7 @@ const MENU_ITEMS: MenuItem[] = [
     description: "Corte fino y jugoso, con gran sabor, asado a fuego fuerte.",
     price: "$9,200",
     category: "Parrilla",
-    image: "/assets/images/products/Entraña.jpeg"
+    image: "/assets/images/products/Entrana.jpeg"
   },
   {
     name: "Vacío",
